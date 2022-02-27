@@ -7,7 +7,6 @@
    
    
 <p> Ferramentas utilizadas </p>
-   
    <li> node versão 14.17.5 </li>
    <li> cypress versão 9.5.0 </li>
    <li> biblioteca faker.js versão 5.5.3</li>
