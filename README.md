@@ -5,6 +5,7 @@
    <li> installe as dependências do projeto utilizando o comando: npm install</li>
    <li> para iniciar a execução dos testes no modo iterativo utilize o comando: npm run cypress:open</li>
    
+   
 <p> Ferramentas utilizadas </p>
    
    <li> node versão 14.17.5 </li>
