@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress:open":"cypress open"
+    "cypress:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/geanielima/wj-qa-automation-test#readme",
   "dependencies": {
-    "cypress": "^9.5.0"
+    "cypress": "^9.5.0",
+    "faker": "^5.5.3"
   }
 }
