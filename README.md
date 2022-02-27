@@ -5,3 +5,8 @@
    <li> installe as dependências do projeto utilizando o comando: npm install</li>
    <li> para iniciar a execução dos testes no modo iterativo utilize o comando: npm run cypress:open</li>
    
+<h1> Ferramentas utilizadas <h1>
+   
+   <li> node versão 14.17.5 </li>
+   <li> cypress versão 9.5.0 </li>
+   <li> biblioteca faker.js versão 5.5.3</li>
